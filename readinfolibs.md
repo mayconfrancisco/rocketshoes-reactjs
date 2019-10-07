@@ -35,5 +35,8 @@ yarn add react-icons //vários pacotes de icones
 
 yarn add polished // lida com cores no css - escure/clarea variacoes das suas cores principais
 
+yarn global add json-server //fake api atraves de arquivo JSON - criar o arquivo server.json <br />
+json-server server.json -p 3333 -w //roda o jsonserver servindo o arquivo server.json na porta 3333 e fica ouvindo o arquivo (-w --watch)
+
 yarn add axios // lidar com requisicoes http - melhor que o fetch do browser
 
