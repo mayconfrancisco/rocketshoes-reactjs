@@ -52,4 +52,8 @@ yarn add reactotron-redux-saga
 
 yarn add react-toastity //alertas tipo toast
 
-yarn add history //history api do navegador
+yarn add history //history api do navegador <br/>
+criar o service de history e export no history <br/>
+importar o service history e Router do react-router-dom no App e substituir o BrowserRouter por router, passando o history como parametro <br/>
+importar o service history no sagas e utilizar o history.push('/suaRotaAqui');
+
