@@ -40,3 +40,8 @@ json-server server.json -p 3333 -w //roda o jsonserver servindo o arquivo server
 
 yarn add axios // lidar com requisicoes http - melhor que o fetch do browser
 
+yarn add redux react-redux // add api de estado redux - arquitetura flux
+
+yarn add reactotron-react-js reactotron-redux
+
+yarn add immer //lidar com as alteracoes no estado do redux de forma facil, atraves de um rascunho
