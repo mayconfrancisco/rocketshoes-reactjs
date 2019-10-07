@@ -1,38 +1,19 @@
-yarn create react-app nomeDoProjeto
+# Ecommerce RocketShoes ReactJS (Web)
 
-remover o eslintConfig do package.json
+### Objetivos e detalhes do projeto
 
-limpar os arquivos index, app.css... e serviceworker
+Ecommerce utilizando REDUX com ReactJS <br />
+Projeto desenvolvido no Bootcamp da Rocketseat
 
-EditorConfig
+![Imagem do App HelpUSRepoos-ReactJS Rodando](https://raw.githubusercontent.com/mayconfrancisco/rocketshoes-reactjs/master/imgs/rocketshoes.gif)
 
-yarn add eslint -D <br />
-yarn eslint --init <br />
-remover o package.lock e rodar yarn novamente <br />
 
-yarn add -D prettier eslint-config-prettier eslint-plugin-prettier babel-eslint <br />
-configurar arquivo .eslintrc <br />
-add no extends prettier e prettier/react <br />
-add parser: 'babel-eslint' antes do parserOptions <br />
-add prettier nos plugins <br />
-sobreescrever as regras do airbnb: <br />
-rules: {
-  'prettier/prettier': 'error',
-  'react/jsx-filename-extension': [
-    'warn',
-    { extensions: ['.jsx', '.js'] }
-  ],
-  'import/prefer-default-export': 'off'
-},
+### Para rodar o projeto:
 
-criar o arquivo .prettierrc com o singlequote e o trailingcomma es5
+_Para baixar as dependências_
 
-yarn add react-router-dom //lidar com rotas na SPA
+**yarn**
 
-yarn add styled-components //lidar com estilos
+_Para iniciar a aplicação_
 
-yarn add react-icons //vários pacotes de icones
-
-yarn add axios // lidar com requisicoes http - melhor que o fetch do browser
-
-yarn add polished // lida com cores no css - escure a cor
+**yarn start**
