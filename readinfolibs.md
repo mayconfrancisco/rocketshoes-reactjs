@@ -45,3 +45,11 @@ yarn add redux react-redux // add api de estado redux - arquitetura flux
 yarn add reactotron-react-js reactotron-redux
 
 yarn add immer //lidar com as alteracoes no estado do redux de forma facil, atraves de um rascunho
+
+yarn add redux-saga
+
+yarn add reactotron-redux-saga
+
+yarn add react-toastity //alertas tipo toast
+
+yarn add history //history api do navegador
