@@ -34,3 +34,5 @@ yarn add styled-components //lidar com estilos
 yarn add react-icons //vários pacotes de icones
 
 yarn add axios // lidar com requisicoes http - melhor que o fetch do browser
+
+yarn add polished // lida com cores no css - escure a cor
