@@ -10,10 +10,8 @@ Projeto desenvolvido no Bootcamp da Rocketseat
 
 ### Para rodar o projeto:
 
-_Para baixar as dependências_
+**yarn** _Para baixar as dependências_
 
-**yarn**
+**json-server server.json -p 3333** _Para rodar o serviço_
 
-_Para iniciar a aplicação_
-
-**yarn start**
+**yarn start** _Para iniciar a aplicação_
