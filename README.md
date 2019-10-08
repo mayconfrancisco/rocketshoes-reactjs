@@ -5,7 +5,7 @@
 Ecommerce utilizando REDUX com ReactJS <br />
 Projeto desenvolvido no Bootcamp da Rocketseat
 
-![Imagem do App HelpUSRepoos-ReactJS Rodando](https://raw.githubusercontent.com/mayconfrancisco/rocketshoes-reactjs/master/imgs/rocketshoes.gif)
+![Imagem do App RocketShoes-ReactJS Rodando](https://raw.githubusercontent.com/mayconfrancisco/rocketshoes-reactjs/master/imgs/rocketshoes.gif)
 
 
 ### Para rodar o projeto:
