@@ -25,6 +25,12 @@ rules: {
   'import/prefer-default-export': 'off'
 },
 
+yarn add eslint-plugin-react-hooks <br />
+add 'react-hooks' aos plugins <br />
+add rules: <br />
+'react-hooks/rules-of-hooks': 'error',
+'react-hooks/exhaustive-deps': 'warn',
+
 criar o arquivo .prettierrc com o singlequote e o trailingcomma es5
 
 yarn add react-router-dom //lidar com rotas na SPA
