@@ -25,7 +25,7 @@ rules: {
   'import/prefer-default-export': 'off'
 },
 
-yarn add eslint-plugin-react-hooks <br />
+yarn add eslint-plugin-react-hooks -D <br />
 add 'react-hooks' aos plugins <br />
 add rules: <br />
 'react-hooks/rules-of-hooks': 'error',
